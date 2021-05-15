@@ -1,6 +1,12 @@
-# Hi there 👋, my name is Jose
+# Hi there 👋, my name is Jose Illatopa
 
-![Banner](https://res.cloudinary.com/pythonid/image/upload/v1621116734/4G52_ljtrck.gif)
+<p align ="center">
+   <img src="https://res.cloudinary.com/pythonid/image/upload/v1621119177/plc_gif_yzpg2z.gif" alt="banner" width="450">
+   <img src="https://res.cloudinary.com/pythonid/image/upload/v1621119670/giwifi_t7sadz.gif" alt="banner" width="460">
+   
+</p>
+
+<!--![BannerCenter](https://res.cloudinary.com/pythonid/image/upload/v1621117028/tenor_hqk1kt.gif)-->
 
 ![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 - 👋 Hi, I’m Jose Illatopa 
@@ -13,7 +19,7 @@
 ![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 
 ### Languages and Tools:
-<p align="left">
+<p align="center">
    <a href="https://www.arduino.cc/" target="_blank">
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
