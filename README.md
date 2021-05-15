@@ -1,8 +1,8 @@
 # Hi there 👋, my name is Jose Illatopa
 
 <p align ="center">
-   <img src="https://res.cloudinary.com/pythonid/image/upload/v1621119177/plc_gif_yzpg2z.gif" alt="banner" width="450">
-   <img src="https://res.cloudinary.com/pythonid/image/upload/v1621119670/giwifi_t7sadz.gif" alt="banner" width="460">
+   <img src="https://res.cloudinary.com/pythonid/image/upload/v1621119177/plc_gif_yzpg2z.gif" alt="banner" width="700">
+   <!--<img src="https://res.cloudinary.com/pythonid/image/upload/v1621119670/giwifi_t7sadz.gif" alt="banner" width="460">
    
 </p>
 
