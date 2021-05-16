@@ -27,11 +27,29 @@
       height="40"
     />
   </a>
+   
+  <a href="https://micropython.org" target="_blank">
+    <img
+      src="https://res.cloudinary.com/pythonid/image/upload/v1621141477/logo/kisspng-micropython-esp32-esp8266-microcontroller-5af44aa79ce834.9906087115259593356427_qamsz2.png"
+      alt="MicroPython"
+      width="40"
+      height="40"
+    />
+  </a>
   
    <a href="https://www.python.org" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
+      width="40"
+      height="40"
+    />
+   </a>
+  
+  <a href="https://opencv.org" target="_blank">
+   <img
+      src="https://res.cloudinary.com/pythonid/image/upload/v1621141073/logo/OpenCV_logo_no_text__s2h2kx.png"
+      alt="OPENCV"
       width="40"
       height="40"
     />
@@ -73,6 +91,9 @@
       height="40"
     />
   </a>
+  
+
+  
 
 </p>
 
