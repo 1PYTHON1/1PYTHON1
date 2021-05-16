@@ -23,8 +23,8 @@
     <img
       src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
       alt="arduino"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
    
@@ -32,8 +32,8 @@
     <img
       src="https://res.cloudinary.com/pythonid/image/upload/v1621141477/logo/kisspng-micropython-esp32-esp8266-microcontroller-5af44aa79ce834.9906087115259593356427_qamsz2.png"
       alt="MicroPython"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   
@@ -41,8 +41,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
    </a>
   
@@ -50,8 +50,8 @@
    <img
       src="https://res.cloudinary.com/pythonid/image/upload/v1621141073/logo/OpenCV_logo_no_text__s2h2kx.png"
       alt="OPENCV"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   
@@ -59,8 +59,8 @@
     <img
       src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg"
       alt="kotlin"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   
@@ -69,8 +69,8 @@
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   
@@ -78,8 +78,8 @@
     <img
       src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
       alt="firebase"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
 
@@ -87,8 +87,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
       alt="linux"
-      width="40"
-      height="40"
+      width="50"
+      height="50"
     />
   </a>
   
