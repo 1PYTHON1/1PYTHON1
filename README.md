@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Jose 🍕😎
+# Hi there 👋, my name is José 🍕😎
 >Professional Electronic Programmer of Embedded Systems, IOT, Industrial Automation with PLC, design of electronic boards and self-taught Web Development.
 
 <p align ="center">
