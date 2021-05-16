@@ -45,6 +45,15 @@
       height="50"
     />
    </a>
+   
+   <a href="https://doc.qt.io/qt-5/qtdesigner-manual.html" target="_blank">
+    <img
+      src="https://res.cloudinary.com/pythonid/image/upload/v1621181133/logo/pngegg_mrvxol.png"
+      alt="Qt"
+      width="50"
+      height="50"
+    />
+   </a>
   
   <a href="https://opencv.org" target="_blank">
    <img
