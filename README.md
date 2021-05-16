@@ -1,4 +1,7 @@
 # Hi there 👋, my name is Jose Illatopa
+
+>Professional Electronic Programmer of Embedded Systems, IOT, Industrial Automation with PLC, design of electronic boards and self-taught Web Development.
+
 <p align ="center">
    <img src="https://res.cloudinary.com/pythonid/image/upload/v1621120945/welcome_jtkkfz.gif" alt="banner" width="480"><br/>
    <img src="https://res.cloudinary.com/pythonid/image/upload/v1621120848/arduino_g9h3i1.gif" alt="banner" width="400">...
@@ -8,11 +11,11 @@
 <!--![BannerCenter](https://res.cloudinary.com/pythonid/image/upload/v1621117028/tenor_hqk1kt.gif)-->
 
 ![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
+
 - 👋 Hi, I’m Jose Illatopa 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in developing web pages for the Internet of Things and increasing my knowledge in industrial automation
+- 🌱 I am currently learning web development, 3D design and programming in MicroPython.
+- 📫 Contact me at joseillatopadaza@gmail.com
 
 
 ![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
