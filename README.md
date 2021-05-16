@@ -1,5 +1,4 @@
-# Hi there 👋, my name is Jose Illatopa
-
+# Hi there 👋, my name is Jose 🍕😎
 >Professional Electronic Programmer of Embedded Systems, IOT, Industrial Automation with PLC, design of electronic boards and self-taught Web Development.
 
 <p align ="center">
@@ -78,6 +77,13 @@
   </a>
 
 </p>
+
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
+### You can Contact Me:
+- 💼 [Linkedin](https://www.linkedin.com/in/jose-illatopa-daza-834939137/)
+- 📫 joseillatopadaza@gmail.com
+
+![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 <!---
 1PYTHON1/1PYTHON1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
