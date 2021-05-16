@@ -84,11 +84,11 @@
 ![Rectangle2](https://user-images.githubusercontent.com/35740463/114885390-36033080-9dcc-11eb-9003-29e472e3c8ff.jpg)
 
 ### My Stats
-![https://github-readme-stats.vercel.app/api?username=1PYTHON1&show_icons=true](https://github-readme-stats.vercel.app/api?username=1PYTHON1&show_icons=true)
+![State](https://github-readme-stats.vercel.app/api?username=1PYTHON1&show_icons=true)
 
-![https://github-readme-stats.vercel.app/api/top-langs/?username=1PYTHON1](https://github-readme-stats.vercel.app/api/top-langs/?username=1PYTHON1)
+![Language](https://github-readme-stats.vercel.app/api/top-langs?username=1PYTHON1&show_icons=true&locale=en&layout=compact)
 
-![https://gpvc.arturio.dev/1PYTHON1](https://gpvc.arturio.dev/1PYTHON1)
+![views_profile](https://gpvc.arturio.dev/1PYTHON1)
 
 <!---
 1PYTHON1/1PYTHON1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
