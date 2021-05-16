@@ -28,13 +28,12 @@
     />
   </a>
    
-   <a href="https://www.microchip.com" target="_blank">
+  <a href="https://www.microchip.com" target="_blank">
     <img
-      src="https://res.cloudinary.com/pythonid/image/upload/v1621181966/logo/kisspng-microchip-technology-nasdaq-mchp-logo-integrated-c-5afc267cbcbca5.2784841615264743647731_wmp9kt.png"
+      src="https://res.cloudinary.com/pythonid/image/upload/v1621182717/logo/PngItem_1851137_mhvoqn.png"
       alt="microchip"
-      width="60"
-      height="60"
-    />
+      width="50"
+      height="50"/>
   </a>
    
   <a href="https://micropython.org" target="_blank">
@@ -47,12 +46,12 @@
   </a>
   
    <a href="https://www.python.org" target="_blank">
-    <img
+       <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       alt="python"
       width="50"
       height="50"
-    />
+        />
    </a>
    
    <a href="https://doc.qt.io/qt-5/qtdesigner-manual.html" target="_blank">
