@@ -35,6 +35,14 @@
       width="50"
       height="50"/>
   </a>
+  
+  <a href="https://new.siemens.com/global/en/products/automation/industry-software/automation-software/tia-portal.html" target="_blank">
+    <img
+      src="https://res.cloudinary.com/pythonid/image/upload/v1621183322/logo/TIA-Portal-16_gfblcp.png"
+      alt="TiaPortal"
+      width="50"
+      height="50"/>
+  </a>
    
   <a href="https://micropython.org" target="_blank">
     <img
