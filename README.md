@@ -28,6 +28,15 @@
     />
   </a>
    
+   <a href="https://www.microchip.com" target="_blank">
+    <img
+      src="https://res.cloudinary.com/pythonid/image/upload/v1621181966/logo/kisspng-microchip-technology-nasdaq-mchp-logo-integrated-c-5afc267cbcbca5.2784841615264743647731_wmp9kt.png"
+      alt="microchip"
+      width="60"
+      height="60"
+    />
+  </a>
+   
   <a href="https://micropython.org" target="_blank">
     <img
       src="https://res.cloudinary.com/pythonid/image/upload/v1621141477/logo/kisspng-micropython-esp32-esp8266-microcontroller-5af44aa79ce834.9906087115259593356427_qamsz2.png"
